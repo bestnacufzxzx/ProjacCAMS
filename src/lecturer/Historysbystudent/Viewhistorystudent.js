@@ -139,7 +139,7 @@ export default class Viewhistorystudent extends Component {
                     <div className="row">
                         <div className="col-md-12">
                             <div className="box box-primary">
-                                <div className="box-body">
+                                <div className="box-body table-responsive">
                                     <table id="example1" class="table table-bordered table-striped" role="grid" >
                                         <thead>
                                             <tr>
